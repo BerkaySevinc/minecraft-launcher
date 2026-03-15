@@ -14,4 +14,4 @@ A simple launcher that allows users to log in, select a game version, and launch
 </br>
 
 # Medias
-![Screenshot 1](Introduction Media/Screenshot 1.png)  
+![Screenshot 1](Introduction%20Media/Screenshot%201.png)
