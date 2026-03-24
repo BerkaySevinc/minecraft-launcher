@@ -13,5 +13,5 @@ A simple launcher that allows users to log in, select a game version, and launch
 - Launches Minecraft with the selected configuration.
 </br>
 
-# Medias
+# Media
 ![Screenshot 1](Introduction%20Media/Screenshot%201.png)
